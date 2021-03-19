@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to left, #333, #333 50%);
+    margin: 0;
+}
+
+.head {
+    bottom: 35px;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #e6acac;
+    
+    
+    
+}
+
+.nav-bar{
+    position: relative;
+    top: 30px;
+
+
+}
+
+.nav-bar a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav-bar a:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+.nav-bar a:active{
+    background-color: #4CAF50;
+    color: white;
+
+}
+
+.slika {
+    position: relative;
+    left: 300px;
+    top: 100px;
+    
+    
+}
+
+
